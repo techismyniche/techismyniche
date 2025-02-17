@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### Contact Information
 - **Email:** [troanoke24@gmail.com](mailto:troanoke24@gmail.com)
-- **Phone:** +1-770-765-2690
 - **LinkedIn:** [linkedin.com/in/techismyniche](https://www.linkedin.com/in/techismyniche)
 - **GitHub:** [github.com/techismyniche](https://github.com/techismyniche)
 
