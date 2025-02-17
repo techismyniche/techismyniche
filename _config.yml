@@ -1,0 +1,36 @@
+portfolio:
+  name: "Your Name"
+  title: "Software Developer"
+  contact:
+    email: "your.email@example.com"
+    phone: "+1-123-456-7890"
+    linkedin: "https://www.linkedin.com/in/your-profile"
+    github: "https://github.com/your-profile"
+  projects:
+    - name: "Project One"
+      description: "A brief description of Project One."
+      technologies: ["Python", "Django", "PostgreSQL"]
+      link: "https://github.com/your-profile/project-one"
+      image: "URL_to_project_image"
+    - name: "Project Two"
+      description: "A brief description of Project Two."
+      technologies: ["JavaScript", "React", "Node.js"]
+      link: "https://github.com/your-profile/project-two"
+      image: "URL_to_project_image"
+    # Add more projects as needed
+  skills:
+    - "Skill One"
+    - "Skill Two"
+    - "Skill Three"
+  education:
+    - degree: "Bachelor of Science in Computer Science"
+      institution: "Your University"
+      year: "Year of Graduation"
+  experience:
+    - job_title: "Software Developer"
+      company: "Company Name"
+      duration: "Start Date - End Date"
+      responsibilities:
+        - "Responsibility One"
+        - "Responsibility Two"
+        - "Responsibility Three"
