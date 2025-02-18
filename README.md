@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 # Terry Roanoke
 
+# About Me
+- Experienced Infrastructure Operations Engineer with 8+ years in IT and customer service, specializing in managing and securing IT systems in fast-paced environments. Proficient in Active Directory, MS Exchange, VMware, and Cisco routers and switches, with a strong focus on reliability, communication, and documentation. Currently transitioning into Cybersecurity to enhance expertise in protecting the systems configured. A self-driven, adaptable professional committed to continuous learning, innovation, and building a resilient security posture.
+
+
 ## Cybersecurity Specialist
 
 ### Contact Information
