@@ -1,4 +1,4 @@
-## Hello
+# Hello
 Welcome to my GitHub portfolio! My name is Terry Roanoke, and I am a passionate cybersecurity professional embarking on an exhilarating journey of continuous learning and growth. With a knack for technology that feels like second nature, I've dedicated myself to mastering the art of protecting digital assets and ensuring data integrity.
 
 My love for tech began at an early age, and it has only grown stronger with each project and challenge I've encountered. From analyzing network security to developing advanced malware detection systems, my portfolio showcases a range of projects that reflect my commitment to excellence and innovation in the field of cybersecurity.
