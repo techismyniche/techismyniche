@@ -4,12 +4,12 @@ Welcome to my GitHub portfolio! My name is Terry Roanoke, and I am a passionate 
 My love for tech began at an early age, and it has only grown stronger with each project and challenge I've encountered. From analyzing network security to developing advanced malware detection systems, my portfolio showcases a range of projects that reflect my commitment to excellence and innovation in the field of cybersecurity.
 
 # What Drives Me
-- Tech is my niche, and diving deep into the intricacies of cybersecurity is where I truly shine. Whether it's conducting comprehensive security analyses, creating incident response plans, or engaging in hands-on penetration testing, I thrive on the opportunity to solve complex problems and make the digital world a safer place.
+Tech is my niche, and diving deep into the intricacies of cybersecurity is where I truly shine. Whether it's conducting comprehensive security analyses, creating incident response plans, or engaging in hands-on penetration testing, I thrive on the opportunity to solve complex problems and make the digital world a safer place.
 Projects and Skills
 
 # Let's Connect
-- I am excited to share my journey with you and connect with like-minded professionals who are equally passionate about cybersecurity. Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or discuss any aspects of the fascinating world of cybersecurity.
-- 
+I am excited to share my journey with you and connect with like-minded professionals who are equally passionate about cybersecurity. Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or discuss any aspects of the fascinating world of cybersecurity.
+
 Thank you for visiting my portfolio. Together, let's make the digital realm a safer place! 
 <!--
 **techismyniche/techismyniche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 # Summary
-- Experienced Infrastructure Operations Engineer with 8+ years in IT and customer service, specializing in managing and securing IT systems in fast-paced environments. Proficient in Active Directory, MS Exchange, VMware, and Cisco routers and switches, with a strong focus on reliability, communication, and documentation. Currently transitioning into Cybersecurity to enhance expertise in protecting the systems configured. A self-driven, adaptable professional committed to continuous learning, innovation, and building a resilient security posture.
+Experienced Infrastructure Operations Engineer with 8+ years in IT and customer service, specializing in managing and securing IT systems in fast-paced environments. Proficient in Active Directory, MS Exchange, VMware, and Cisco routers and switches, with a strong focus on reliability, communication, and documentation. Currently transitioning into Cybersecurity to enhance expertise in protecting the systems configured. A self-driven, adaptable professional committed to continuous learning, innovation, and building a resilient security posture.
 
 
 ### Contact Information
