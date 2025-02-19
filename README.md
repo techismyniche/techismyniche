@@ -71,7 +71,8 @@ Thank you for visiting my portfolio. Together, let's make the digital realm a sa
 ## Education and Certifications
 - **Certificate of Completion in Cybersecurity | CompTIA CySA+**  
   Per Scholas, March 2025
-  - This rigorous, full-time, 15-week virtual Cybersecurity Training program provides an understanding of Windows Server, Bash Scripting, Microsoft SQLServer, Wireshark, UNIX/Linux, and CISCO IOS.
+  This rigorous, full-time, 15-week virtual Cybersecurity Training program provides an understanding of Windows Server, Bash Scripting, Microsoft SQLServer, Wireshark, UNIX/Linux, and CISCO IOS.
+
   - Attended weekly professional development to develop a personal brand, create a robust technical resume, practice professional communication and collaborative skills, and develop skills required to succeed in a 
     technical environment.
   - Course Focus: Windows Server, UNIX, Linux, Bash Scripting, IPV4 & IPV6, DNS & DHCP, Microsoft SQL SERVER, Apache HTTP SERVER, Opnsense Firewall, Wireshark, Cisco IOS, and Oracle VirtualBox.
